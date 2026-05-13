@@ -88,7 +88,7 @@ This phase focuses on identifying operating system information and analyzing use
 
 ## 🖥️ Operating System Information
 
-![OS Information](screenshots/phase-user_and_os_analysis/os_information.png)
+![OS Information](screenshots/phase-user-and-os-analysis/os-information.png)
 
 ### 📄 Analysis
 The operating system details were extracted to identify the system environment involved in the investigation.
@@ -103,7 +103,7 @@ Operating system analysis helps investigators understand:
 
 ## 👥 User Account Analysis
 
-![User Account Analysis](screenshots/phase-user_and_os_analysis/user_account_analysis.png)
+![User Account Analysis](screenshots/phase-user-and-os-analysis/user-account-analysis.png)
 
 ### 📄 Analysis
 User account artifacts were analyzed to identify system users and possible user activity traces.
@@ -124,7 +124,7 @@ This phase investigates installed applications and removable device activity.
 
 ## 📦 Installed Programs
 
-![Installed Programs](screenshots/phase-programs_and_activity/installed_programs.png)
+![Installed Programs](screenshots/phase-programs-and-activity/installed-programs.png)
 
 ### 📄 Analysis
 Installed software entries were examined to identify potentially suspicious or relevant applications.
@@ -139,7 +139,7 @@ Installed program analysis may reveal:
 
 ## 🔌 USB Device Activity
 
-![USB Device Activity](screenshots/phase-programs_and_activity/usb_device_activity.png)
+![USB Device Activity](screenshots/phase-programs-and-activity/usb-device-activity.png)
 
 ### 📄 Analysis
 USB connection artifacts were analyzed to identify removable storage device usage.
@@ -160,7 +160,7 @@ This phase focuses on browser-related forensic evidence and online activity trac
 
 ## 🌍 Browser History Investigation
 
-![Browser History](screenshots/web_artifacts/historyofsuspect.png)
+![Browser History](screenshots/web-artifacts/historyofsuspect.png)
 
 ### 📄 Analysis
 Browser history artifacts were examined to identify suspicious online activity.
@@ -175,7 +175,7 @@ Web history investigation assists in:
 
 ## 🔫 Weapon-Related Artifact — Part 1
 
-![Weapon Artifact 1](screenshots/web_artifacts/weapons_related artifact_1.png)
+![Weapon Artifact 1](screenshots/web-artifacts/weapons-related-artifact-1.png)
 
 ### 📄 Analysis
 Browser artifacts indicated searches and interactions related to weapon-related content.
@@ -187,7 +187,7 @@ The identified searches may indicate focused suspicious activity requiring deepe
 
 ## 🔫 Weapon-Related Artifact — Part 2
 
-![Weapon Artifact 2](screenshots/web_artifacts/weapons_related artifact_2.png)
+![Weapon Artifact 2](screenshots/web-artifacts/weapons-related-artifact-2.png)
 
 ### 📄 Analysis
 Additional suspicious web artifacts were identified during browser analysis.
@@ -205,7 +205,7 @@ This phase reconstructs chronological activity from system artifacts and documen
 
 ## 📄 Document Timeline Creation
 
-![Document Timeline](screenshots/document_timeline_analysis/document_timeline_creation.png)
+![Document Timeline](screenshots/document-timeline-analysis/document-timeline-creation.png)
 
 ### 📄 Analysis
 Document activity timestamps were reconstructed to analyze chronological behavior.
@@ -220,7 +220,7 @@ Timeline reconstruction helps identify:
 
 ## ☁️ Timeline Activity — Part 1
 
-![Timeline 1](screenshots/document_timeline_analysis/ws-wh_timeline_1.png)
+![Timeline 1](screenshots/document-timeline-analysis/ws-wh-timeline-1.png)
 
 ### 📄 Analysis
 The timeline analysis module revealed chronological event sequences.
@@ -232,7 +232,7 @@ Helps correlate user activity with system events.
 
 ## ☁️ Timeline Activity — Part 2
 
-![Timeline 2](screenshots/document_timeline_analysis/ws-wh_timeline_2.png)
+![Timeline 2](screenshots/document-timeline-analysis/ws-wh-timeline-2.png)
 
 ### 📄 Analysis
 Additional event records were analyzed to continue activity reconstruction.
@@ -244,7 +244,7 @@ Provides extended insight into user interaction patterns.
 
 ## ☁️ Timeline Activity — Part 3
 
-![Timeline 3](screenshots/document_timeline_analysis/ws-wh_timeline_3.png)
+![Timeline 3](screenshots/document-timeline-analysis/ws-wh-timeline-3.png)
 
 ### 📄 Analysis
 Final timeline artifacts were reviewed to complete chronological analysis.
@@ -260,7 +260,7 @@ Completes forensic reconstruction of system activity.
 
 ## 🏗️ System Architecture
 
-![System Architecture](screenshots/system_architecture/system_architecture.png)
+![System Architecture](screenshots/system-architecture/system-architecture.png)
 
 ### 📄 Analysis
 System architecture information was examined to understand hardware and system structure.
